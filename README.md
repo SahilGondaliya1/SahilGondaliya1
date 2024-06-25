@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SahilGondaliya1
+- 👋 Hi, I’m Sahil Gondaliya a undergraduate student in Computer Engineering
 - 👀 I’m interested in learning new skills!
-- 🌱 I’m currently learning building myself!
+- 🌱 I’m currently learning to front-end technogies like  React, JavaScript etc.
 - 📫 How to reach me gmail - sahilgondaliya789@gmail.com
 - ⚡ Fun fact: DSA IS LOVE ❤ 
 
