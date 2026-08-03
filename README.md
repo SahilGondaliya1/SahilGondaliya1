@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SahilGondaliya1&label=Profile%20views&color=0e75b6&style=flat" alt="SahilGondaliya1" /> </p>
 
-- 🌱 I’m currently learning **Django , Python**
+- 🌱 I’m currently working with **Django and Python**
 
 - 📫 How to reach me **sahilgondaliya254@gmail.com**
 
